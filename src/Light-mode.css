@@ -1,0 +1,19 @@
+body {
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .container {
+    background-color: #fff;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #555;
+  }
+  
+  /* Additional light mode styles */
+  
